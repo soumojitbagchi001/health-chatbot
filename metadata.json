@@ -1,0 +1,5 @@
+
+{
+  "name": "Gemini Student Chatbot",
+  "description": "A simple and clean chatbot interface powered by the Google Gemini API, designed to assist students with their queries. Features include chat history, a loading indicator, and the ability to clear the conversation."
+}
